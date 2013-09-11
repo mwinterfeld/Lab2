@@ -20,7 +20,7 @@ puts("\n")
 ##########################
 
 def palindrome?(string)
-	reverse = string.to_a.reverse.join
+	reverse = string.each_char.to_a.reverse.join
 	if(string == reverse)
 		puts(string + " is a palindrome.")
 	else

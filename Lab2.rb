@@ -1,3 +1,5 @@
+# Name: Michael Winterfeld
+# Github link: https://github.com/mwinterfeld/Lab2
 #######################
 # Part1: Hello World
 #######################
